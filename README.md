@@ -42,7 +42,7 @@ Você pode visualizar o relatório interativo clicando no link abaixo:
 
 Aqui está uma captura de tela do relatório:
 
-![Zoop Megastore](ZoopMegastore.png)
+![Zoop Megastore](ZoopMegastore.PNG)
 
 ## Pré-requisitos
 
